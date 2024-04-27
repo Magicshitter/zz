@@ -1,0 +1,31 @@
+{
+  "token": "MTIzMzUyNzA4NzEzOTEyNzMyNg.GeaKtb.h4f28BV6rZlGAwKOtKIwX3x7q89pUX1_BvDXlg",
+  "username": "Anonymous",
+  "password": "AnonymousServices",
+
+  "port": "3000",
+
+  "clientId": "1233527087139127326",
+  "guildId": "1202181944171827240",
+  "globalDeploy": false,
+
+  "status": "Made by x808s <3",
+  "website": "https://discord.gg/anonymousservices",
+  "banner": "https://media.discordapp.net/attachments/1224952290734247966/1233620014951563334/standard.gif?ex=662dc1ab&is=662c702b&hm=5c92b224190567e4f7d4109eefddf59d1df0964c3b38cb678e93616bdb7513e6&=&width=611&height=215",
+  "footer": "Best Trusted Seller",
+  "genChannel": "1233621910970040403",
+  "premiumChannel": "1233621316171468911",
+  "genCooldown": "21600",
+  "premiumCooldown": "3600",
+
+  "color": {
+    "green": "0x57F287",
+    "yellow": "0xFEE75C",
+    "red": "0xED4245",
+    "default": "0x5865F2"
+  },
+  "command": {
+    "notfound_message": true,
+    "error_message": true
+  }
+}
